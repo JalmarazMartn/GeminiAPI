@@ -1,10 +1,11 @@
 var request = require('request');
+var APIKey = require('./APIKey.json');
 var options = {
   'method': 'POST',
   'url': 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent',
   'headers': {
     'Content-Type': 'application/json',
-    'X-goog-api-key': 'AIzaSyCKh3ItJZMT01_nstrj33qev_b0e3pjsdk'
+    'X-goog-api-key': APIKey.APIKey
   },
   body: JSON.stringify({
     "contents": [
