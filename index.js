@@ -12,7 +12,7 @@ var options = {
       {
         "parts": [
           {
-            "text": "Explain how to conne to Gemini API without SDK with Node request"
+            "text": "Explain how to connect to Gemini API without SDK with Node request"
           }
         ]
       }
