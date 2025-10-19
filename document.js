@@ -24,7 +24,7 @@ var options = {
             data: imageData
           }
         },
-        { text: 'Extract invoice details such as invoice number, date, total amount, and vendor name from the document above. Return olnly a JSON with {"Invoice No.","Vendor Name""Customer Name","Date","Total Amount"},Format Date dd/mm/YYYY'}
+        { text: 'Extract invoice details such as invoice number, date, total amount, and vendor name from the document above. Return only a JSON with {"Invoice No.","Vendor Name""Customer Name","Date","Total Amount"},Format Date dd/mm/YYYY'}
       ]
     }]
   })
