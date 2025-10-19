@@ -1,7 +1,7 @@
 var fs = require('fs');
 var request = require('request');
 
-var IMG_PATH = 'C:/Users/Jesus/Pictures/invoice-sample.pdf'; // Get person genre
+var IMG_PATH = 'C:/Users/Jesus/Pictures/invoice-sample.pdf'; // Invoice example
 
 var APIKey = require('./APIKey.json');
 
