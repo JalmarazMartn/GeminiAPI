@@ -2,9 +2,9 @@
   "name": "geminiapi",
   "version": "1.0.0",
   "description": "A simple Node.js project to execute a script.",
-  "main": "document.js",
+  "main": "StyleGuide.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node StyleGuide.js"
   },
   "author": "",
   "license": "ISC"
